@@ -57,6 +57,7 @@ header nav a:hover {
 .filme-principal .descricao {
     margin-bottom: 4rem;
     margin-top: 10px;
+    font-size: 1.76rem;
 }
 
 .filme-principal .titulo {
